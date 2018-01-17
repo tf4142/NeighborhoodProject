@@ -1,0 +1,46 @@
+html,body {
+        font-family: Arial, sans-serif;
+        height: 100%;
+        margin: 0px;
+        padding: 0px;
+      }
+
+h2 {
+	width: 25%;
+}
+
+h4 {
+	width: 25%;
+}
+
+h6 {
+  width: 25%;
+}
+
+ul {
+  list-style-type: none;
+  width: 23%;
+  margin: 5px;
+  padding: 5px;
+}
+
+ul li {
+  border: 1px solid black;
+}
+
+.container {
+	height: 100%;
+	position: relative;
+}
+
+.filter-box {
+	width: 20%;
+}
+
+.map {
+ 	bottom:0px;
+	height: 100%;
+	position: absolute;
+ 	right: 0px;
+	width: 75%;
+}
